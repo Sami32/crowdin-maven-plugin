@@ -1,4 +1,4 @@
-# DMS crowdin Maven Plugin
+# Crowdin Maven Plugin
 
 This plugin allows Maven projects to be translated using crowdin. It is based on [glandais' crowdin-maven plugin](https://github.com/glandais/crowdin-maven), but has been adapted for use with the [Digital Media Server project](https://github.com/DigitalMediaServer/DigitalMediaServer).
 
